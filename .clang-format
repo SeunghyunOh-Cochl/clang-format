@@ -76,7 +76,7 @@ BinPackArguments: true
 
 SpaceAfterCStyleCast: true  # (int) i;
 SpaceAfterLogicalNot: false
-SpaceAfterTemplateKeyword: false
+SpaceAfterTemplateKeyword: true
 SpaceBeforeAssignmentOperators: true
 SpaceBeforeCaseColon: false
 SpaceBeforeCpp11BracedList: false
