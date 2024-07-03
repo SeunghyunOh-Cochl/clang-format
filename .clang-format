@@ -17,7 +17,7 @@ AlignConsecutiveAssignments: None
 AlignOperands: DontAlign
 AllowShortIfStatementsOnASingleLine: WithoutElse
 AllowShortLoopsOnASingleLine: true
-AllowShortBlocksOnASingleLine: Always
+AllowShortBlocksOnASingleLine: Empty
 AllowShortFunctionsOnASingleLine: All
 AllowShortCaseLabelsOnASingleLine: false
 BreakBeforeBinaryOperators: None
